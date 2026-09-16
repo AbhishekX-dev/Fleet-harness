@@ -1,0 +1,6 @@
+{
+  "brake_failure": "DOT reportable",
+  "tire_blowout_highway": "DOT reportable",
+  "slow_tire_pressure_drop": "not reportable unless recurring 3+ times",
+  "minor_vibration": "not reportable"
+}

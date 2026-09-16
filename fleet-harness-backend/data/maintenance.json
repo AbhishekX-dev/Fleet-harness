@@ -1,0 +1,12 @@
+[
+  {
+    "vehicle_id": "TRK-042",
+    "last_service": "2026-08-01",
+    "past_issues": ["tire replacement - 2026-06-15"]
+  },
+  {
+    "vehicle_id": "TRK-012",
+    "last_service": "2026-07-10",
+    "past_issues": ["brake pad replacement - 2026-05-01"]
+  }
+]

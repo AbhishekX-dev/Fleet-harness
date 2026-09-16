@@ -1,0 +1,2 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+:root{--paper:#F3EDDC;--ink-deep:#1E3A6E;--ink-mid:#5378A8;--ink-pale:#AEC2DC;--accent-solid:#2447A6;--alert:#8C2F1B;--ink:var(--ink-deep);--accent:var(--accent-solid);--accent-soft:var(--ink-pale);--line:var(--ink-deep);--shadow:5px 5px 0 var(--ink-deep);font-family:'Space Grotesk',system-ui,sans-serif;color:var(--ink-deep);background:var(--paper)}*{box-sizing:border-box}body{margin:0;min-width:320px;background:var(--paper)}button{font:inherit}

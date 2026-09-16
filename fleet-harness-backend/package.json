@@ -1,0 +1,15 @@
+{
+  "name": "fleet-harness-backend",
+  "version": "1.0.0",
+  "description": "Fleet Incident Triage Harness - multi-agent backend with SSE streaming",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.21.2"
+  }
+}

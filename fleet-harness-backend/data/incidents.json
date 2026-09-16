@@ -1,0 +1,38 @@
+[
+  {
+    "vehicle_id": "TRK-012",
+    "date": "2026-08-10",
+    "issue_type": "slow_tire_pressure_drop",
+    "severity": "low"
+  },
+  {
+    "vehicle_id": "TRK-012",
+    "date": "2026-08-24",
+    "issue_type": "slow_tire_pressure_drop",
+    "severity": "low"
+  },
+  {
+    "vehicle_id": "TRK-042",
+    "date": "2026-09-05",
+    "issue_type": "slow_tire_pressure_drop",
+    "severity": "medium"
+  },
+  {
+    "vehicle_id": "TRK-042",
+    "date": "2026-09-05",
+    "issue_type": "slow_tire_pressure_drop",
+    "severity": "medium"
+  },
+  {
+    "vehicle_id": "TRK-042",
+    "date": "2026-09-05",
+    "issue_type": "slow_tire_pressure_drop",
+    "severity": "high"
+  },
+  {
+    "vehicle_id": "TRK-042",
+    "date": "2026-09-05",
+    "issue_type": "minor_vibration",
+    "severity": "high"
+  }
+]
