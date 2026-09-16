@@ -39,3 +39,7 @@ service-account*.json
 Thumbs.db
 .vscode/
 .idea/
+# Local-only project notes
+FRONTEND.md
+backend-build-spec.md
+fleet-incident-triage-harness.md
